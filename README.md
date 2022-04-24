@@ -1,5 +1,5 @@
 # Draw-_it_or_lose_it
-This repository is for a software design document for the game "Draw It or Lose It". Requested from the company The Gaming Room. This is a school project in my Operating Platforms class. This includes the software design document as well as code created with the UML diagram found inside the document.
+This repository is for a software design document for the game "Draw It or Lose It". Requested from the company The Gaming Room. This is a school project in my Operating Platforms class. 
 
 The client, The Gaming Room, was looking to expand their game "Draw It or Lose It" which was created on the Android OS. The company wants to turn their Android application into a web-based application. In order to do this, I needed to supply information about which operating system I recommended and why. 
 
